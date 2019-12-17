@@ -1,0 +1,20 @@
+{
+  "id": 1,
+  "name": {
+    "first": "Gonçalo",
+    "last": "Correia",
+    "middle": "José"
+  },
+  "contact": [
+    {
+      "type": "phone/home",
+      "ref": "(351)-177-8916"
+    },
+    {
+      "type": "phone/work",
+      "ref": "(351)-594-6350"
+    }
+  ],
+  "country": "Portugal",
+  "city": "Porto"
+}

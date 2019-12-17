@@ -1,0 +1,35 @@
+[{
+  "id": 1,
+  "name": {
+    "first": "Gonçalo",
+    "last": "Correia"
+  },
+  "contact": [
+    {
+      "type": "phone/home",
+      "ref": "(351)-177-8916"
+    },
+    {
+      "type": "phone/work",
+      "ref": "(351)-594-6350"
+    }
+  ]
+},
+{
+  "id": 2,
+  "name": {
+    "first": "Francisca",
+    "last": "Simões"
+  },
+  "contact": [
+    {
+      "type": "phone/home",
+      "ref": "(351)-420-2148"
+    },
+    {
+      "type": "phone/work",
+      "ref": "(351)-546-3313"
+    }
+  ]
+}
+]
